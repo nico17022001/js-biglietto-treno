@@ -10,11 +10,9 @@ L’output del prezzo finale va messo fuori in forma umana
 - Chiedere all'utente quanti km deve percorrere 
 - Chiedere all'utente l'età
 - Calcolare il prezzo in base ai km 
-- Creare una variante minore di 18 anni 
-- Creare una variante maggiore di 65 anni 
 - Dare uno sconto del 20% al prezzo per i minori 
 - Dare uno sconto del 40% al prezzo per gli over 65 anni  
-
+- Creare un output
 
 
 
