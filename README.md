@@ -7,7 +7,14 @@ va applicato uno sconto del 20% per i minorenni
 va applicato uno sconto del 40% per gli over 65.
 L’output del prezzo finale va messo fuori in forma umana
 ## Passaggi 
-- 
+- Chiedere all'utente quanti km deve percorrere 
+- Calcolare il prezzo in base ai km 
+- Definire che il prezzo del viaggio sono 0.21 euro a km 
+- Creare un utente minore di 18 anni 
+- Creare un utente maggiore di 65 anni 
+- Dare uno sconto del 20% al prezzo per i minori 
+- Dare uno sconto del 40% al prezzo per gli over 65 anni  
+
 
 
 
